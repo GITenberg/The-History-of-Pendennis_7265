@@ -1,5 +1,8 @@
 _repo: The-History-of-Pendennis_7265
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thackeray, William Makepeace
@@ -16,6 +19,8 @@ description: Set in 19th century London, England, this novel features a young En
   life and society. In line with other Thackeray's works, Pendennis offers an insightful
   and satiric picture of human character and aristocratic society. The masterful characterizations
   include the snobbish Major Pendennis and the tipsy Captain Costigan.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7265#The-History-of-Pendennis
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
