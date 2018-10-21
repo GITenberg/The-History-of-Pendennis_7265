@@ -12,6 +12,7 @@ Author: William Makepeace Thackeray
 
 Release Date: January, 2005 [EBook #7265]
 Posting Date: July 25, 2009
+Last Updated: February 16, 2017
 
 Language: English
 
@@ -666,7 +667,7 @@ in the moonlight nights twice a year, coming a dozen miles to these
 festivals; and besides the county, the Pendennises had the society of
 the town of Clavering, as much as, nay, more than they liked: for Mrs.
 Pybus was always poking about Helen's conservatories, and intercepting
-the operation of her soup-tickets and coal-clubs Captain Glanders (H.
+the operation of her soup-tickets and coal-clubs. Captain Glanders (H.
 P., 50th Dragoon Guards) was for ever swaggering about the Squire's
 stables and gardens, and endeavouring to enlist him in his quarrels
 with the Vicar, with the Postmaster, with the Reverend F. Wapshot
@@ -684,7 +685,7 @@ pasture and fed down by sheep and cattle, when the Pendennises came
 first to live at Fairoaks. Shutters were up in the house; a splendid
 freestone palace, with great stairs, statues, and porticos, whereof you
 may see a picture in the 'Beauties of England and Wales.' Sir Richard
-Clavering, Sir Francis's-grandfather, had commenced the ruin of the
+Clavering, Sir Francis's grandfather, had commenced the ruin of the
 family by the building of this palace: his successor had achieved the
 ruin by living in it. The present Sir Francis was abroad somewhere;
 nor could anybody be found rich enough to rent that enormous mansion,
@@ -905,7 +906,7 @@ when little to be made to perform 'Home, sweet Home,' 'My pretty Page,'
 and a French song or two which his mother had taught him, and other
 ballads for the delectation of the senior boys), had suddenly plunged
 into a deep bass diversified by a squeak, which when he was called upon
-to construe in school set the master and scholars laughing he was about
+to construe in school set the master and scholars laughing--he was about
 sixteen years old, in a word, when he was suddenly called away from his
 academic studies.
 
@@ -957,7 +958,7 @@ which the lad did with an arch look. Major Pendennis had written on the
 card, "I must take A. P. home; his father is very ill."
 
 As the Doctor received the card, and stopped his harangue with rather
-a seared look, the laughter of the boys, half constrained until then,
+a scared look, the laughter of the boys, half constrained until then,
 burst out in a general shout. "Silence!" roared out the Doctor stamping
 with his foot. Pen looked up and saw who was his deliverer; the Major
 beckoned to him gravely with one of his white gloves, and tumbling down
@@ -1456,7 +1457,7 @@ hair-plaits tied up in dirty pink ribbon. Not having acquired the art of
 dancing, the youth avoided such chances as he might have had of meeting
 with the fair sex at the Chatteris' Assemblies; in fine, he was not in
 love, because there was nobody at hand to fall in love with. And the
-young monkey used to ride out, day after day in quest, of Dulcinea; and
+young monkey used to ride out, day after day, in quest, of Dulcinea; and
 peep into the pony-chaises and gentlefolks' carriages, as they drove
 along the broad turnpike roads, with a heart beating within him, and
 a secret tremor and hope that she might be in that yellow postchaise
@@ -1837,7 +1838,7 @@ eyes on her: and I warn my reader, as beforehand, that the pencil which
 illustrates this work (and can draw an ugly face tolerably well, but is
 sadly put out when it tries to delineate a beauty) can give no sort of
 notion of her. She was of the tallest of women, and at her then age of
-six-and-twenty-for six-and-twenty she was, though she vows she was only
+six-and-twenty--for six-and-twenty she was, though she vows she was only
 nineteen--in the prime and fulness of her beauty. Her forehead was vast,
 and her black hair waved over it with a natural ripple (that beauties
 of late days have tried to imitate with the help of the crimping-irons),
@@ -2013,7 +2014,7 @@ Pen blushed and told his mother that the old schoolfellow with whom
 he had dined at Chatteris was reading with a tutor at Baymouth, a very
 learned man; and as he was himself to go to College, and as there were
 several young men pursuing their studies at Baymouth--he was anxious to
-ride over-and-and just see what the course of their reading was.
+ride over--and--and just see what the course of their reading was.
 
 Laura made a long face. Helen Pendennis looked hard at her son, troubled
 more than ever with the vague doubt and terror which had been haunting
@@ -2812,7 +2813,7 @@ and his mother married him to an Englishwoman."
 "Lord Poldoody was a young nobleman; and in them it's natural: and ye
 weren't in the position in which ye are now, Milly dear. But ye mustn't
 encourage this young chap too much, for, bedad, Jack Costigan won't have
-any thrilling with his daughter."
+any thrifling with his daughter."
 
 "No more will his daughter, papa, you may be sure of that," Milly said.
 "A little sip more of the punch,--sure, 'tis beautiful. Ye needn't be
@@ -3470,7 +3471,7 @@ money would have run up my promotion in no time, and I should have
 been a lieutenant--colonel at thirty: but it might not be. I was but a
 penniless lieutenant: her parents interfered: and I embarked for
 India, where I had the honour of being secretary to Lord Buckley, when
-commander-in-Chief without her. What happened? We returned our letters,
+commander-in-Chief--without her. What happened? We returned our letters,
 sent back our locks of hair (the Major here passed his fingers through
 his wig), we suffered--but we recovered. She is now a baronet's wife
 with thirteen grown-up children; altered, it is true, in person; but her
@@ -4394,7 +4395,7 @@ might like to git into conversation with him," the valet said, opening
 the coffee-room door.
 
 The Major entered; and there indeed was Mr. Foker, the only occupant of
-the place. He was rubbing his eyes, and sate before a table rated with
+the place. He was rubbing his eyes, and sate before a table decorated with
 empty decanters and relics of dessert. He had intended to go to the play
 too, but sleep had overtaken him after a copious meal, and he had flung
 up his legs on the bench, and indulged in a nap instead of the dramatic
@@ -4610,7 +4611,7 @@ The Major had sunk every shilling he could scrape together on an
 annuity, and of course was going to leave Pen nothing; but he did not
 tell Foker this. "How much do you think a Major on half-pay can save?"
 he asked. "If these people have been looking at him as a fortune, they
-are utterly mistaken-and-and you have made me the happiest man in the
+are utterly mistaken--and--and you have made me the happiest man in the
 world."
 
 "Sir to you," said Mr. Foker, politely, and when they parted for
@@ -4736,7 +4737,7 @@ and astonished me. I have seen our best actresses, and, on my word, I
 think you surpass them all. You are as majestic as Mrs. Siddons."
 
 "Faith, I always said so," Costigan said, winking at his daughter;
-"Major, take a chair." Milly rose at this hint, took an uuripped satin
+"Major, take a chair." Milly rose at this hint, took an unripped satin
 garment off the only vacant seat, and brought the latter to Major
 Pendennis with one of her finest curtseys.
 
@@ -6526,7 +6527,7 @@ growl, and retreated as Doctor Portman came up to his wicket, and Mr.
 Hobnell, with his nose and lip bleeding piteously, emerged from the
 grave.
 
-Pen, looking death and defiance at the lads, who retreated towards'
+Pen, looking death and defiance at the lads, who retreated toward
 their side of the churchyard, walked back again through the Doctor's
 wicket, and was interrogated by that gentleman. The young fellow was
 so agitated he could scarcely speak. His voice broke into a sob as he
@@ -6638,7 +6639,7 @@ engaged; and she longed more than ever to see him out of Chatteris for a
 while,--anywhere removed from the woman who had brought him into so much
 trouble.
 
-Pen when remonstrated with by this fond parent, and angrily rebuked by
+Pen, when remonstrated with by this fond parent, and angrily rebuked by
 the Doctor for his violence and ferocious intentions, took the matter au
 grand serieux, with the happy conceit and gravity of youth: said that he
 himself was very sorry for the affair, that the insult had come upon him
@@ -7132,7 +7133,7 @@ CHAPTER XVII. Which concludes the first Part of this History
 
 
 The Curate had gone on his daily errand to Fairoaks, and was upstairs in
-Pens study pretending to read with his pupil, in the early part of that
+Pen's study pretending to read with his pupil, in the early part of that
 very afternoon when Mrs. Portman, after transacting business with Mrs.
 Pybus, had found the weather so exceedingly fine that she pursued her
 walk as far as Fairoaks, in order to pay a visit to her dear friend
@@ -7458,7 +7459,7 @@ hair off his forehead and kissed it fondly. She was afraid he had been
 drinking too much wine. Why had Mr. Smirke gone away without any tea?
 
 He looked at her with a kind humour beaming in his eyes "Smirke is
-unwell," he said with a laugh. For a long while Hele had not seen the
+unwell," he said with a laugh. For a long while Helen had not seen the
 boy looking so cheerful. He put his arm round her waist, and walked her
 up and down the walk in front of the house. Laura began to drub on the
 drawing-room window and nod and laugh from it. "Come along, you two
@@ -7845,7 +7846,7 @@ of its royal and noble benefactors.
 
 The porter pointed out a queer old tower at the corner of the
 quadrangle, by which Mr. Buck's rooms were approached, and the two
-gentlemen walked acrosse the square, the main features of which were at
+gentlemen walked across the square, the main features of which were at
 once and for ever stamped in Pen's mind--the pretty fountain playing
 in the centre of the fair grass plats; the tall chapel windows and
 buttresses rising to the right; the hall with its tapering lantern and
@@ -7929,7 +7930,7 @@ somewhat on one side, as he had seen Fiddicombe, the youngest master at
 Grey Friars, wear it. And he inspected the entire costume with a great
 deal of satisfaction in one of the great gilt mirrors which ornamented
 Mr. Buck's lecture-room: for some of these college divines are no more
-above looking--glasses than a lady is, and look to the set of their
+above looking-glasses than a lady is, and look to the set of their
 gowns and caps quite as anxiously as folks do of the lovelier sex. The
 Major smiled as he saw the boy dandifying himself in the glass: the old
 gentleman was not displeased with the appearance of the comely lad.
@@ -7990,7 +7991,7 @@ his residence at Oxbridge.
 
 It would, perhaps, have been better for a youth, the battle of whose
 life was going to begin on the morrow, to have passed the eve in a
-fferent sort of vigil: but the world had got hold of Pen in the shape of
+different sort of vigil: but the world had got hold of Pen in the shape of
 his selfish old Mentor: and those who have any interest in his character
 must have perceived ere now, that this lad was very weak as well as
 very impetuous, very vain as well as very frank, and if of a generous
@@ -8491,7 +8492,7 @@ the most select commoners of the university), soon found himself left
 far behind by the young freshman in the fashionable world of Oxbridge,
 and being a generous and worthy fellow, without a spark of envy in
 his composition, was exceedingly pleased at the success of his young
-protege, and admired Pen quite as much as any of the other youth did. I
+protege, and admired Pen quite as much as any of the other youth did. It
 was he who followed Pen now, and quoted his sayings; learned his songs,
 and retailed them at minor supper-parties, and was never weary of
 hearing them from the gifted young poet's own mouth--for a good deal of
@@ -8554,7 +8555,7 @@ betting than I do about Algebra: the chaps will win your money as sure
 as you sport it. Hang me if you are not trying everything. I saw you sit
 down to ecarte last week at Trumpington's, and taking your turn with the
 bones after Ringwood's supper. They'll beat you at it, Pen, my boy, even
-if they play on the square, which. I don't say they don't, nor which I
+if they play on the square, which I don't say they don't, nor which I
 don't say they do, mind. But I won't play with 'em. You're no match for
 'em. You ain't up to their weight. It's like little Black Strap standing
 up to Tom Spring,--the Black's a pretty fighter but, Law bless you, his
@@ -8667,7 +8668,7 @@ mother (whom I knew as Lady Aquila Brownbill); and Lord Magnus's
 republicanism will wear off--it sits prettily enough on a young
 patrician in early life, though nothing is so loathsome among persons
 of our rank--Mr. Broadbent seems to have much eloquence and considerable
-reading your friend Foker is always delightful: but your acquaintance,
+reading--your friend Foker is always delightful: but your acquaintance,
 Mr. Bloundell, struck me as in all respects a most ineligible young
 man."
 
@@ -8877,7 +8878,7 @@ was he very likely to meet his guardian. One night, nevertheless, they
 were very near to each other: a plank only separating Pen, who was
 in the boxes of the Museum Theatre, from the Major, who was in Lord
 Steyne's box, along with that venerated nobleman. The Fotheringay was
-in the pride of her glory. Shad made a hit: that is, she had drawn very
+in the pride of her glory. She had made a hit: that is, she had drawn very
 good houses for nearly a year, had starred the provinces with great
 eclat, had come back to shine in London with somewhat diminished lustre,
 and now was acting with "ever increasing attraction; etc.," "triumph
@@ -9222,7 +9223,7 @@ who was scouring the steps, looked up suspiciously at him, as he came
 with an unshaven face, and yesterday's linen. He thought she knew of his
 mishap, too.
 
-"Good evens! Mr. Harthur, what as appened, sir?" Mr. Morgan, the valet,
+"Good 'evens! Mr. Harthur, what as 'appened, sir?" Mr. Morgan, the valet,
 asked, who had just arranged the well-brushed clothes and shiny boots
 at the door of his master's bedroom, and was carrying in his wig to the
 Major.
@@ -9279,7 +9280,7 @@ rebellious university youth. "I wonder you can look me in the face
 after such a disgrace, sir," he said; "I wonder you submitted to it as a
 gentleman."
 
-"I couldn't help it, sir. I did my classical papers well enough it was
+"I couldn't help it, sir. I did my classical papers well enough: it was
 those infernal mathematics, which I have always neglected."
 
 "Was it--was it done in public, sir?" the Major said.
@@ -9407,14 +9408,14 @@ CHAPTER XXII. Prodigal's Return
 
 Such a letter as the Major wrote of course, sent Doctor Portman to
 Fairoaks, and he went off with that alacrity which a good man shows when
-he has disagreeable news to commit. He wishes the deed were done, and
+he has disagreeable news to communicate. He wishes the deed were done, and
 done quickly. He is sorry, but que voulez-vous? the tooth must be taken
 out, and he has you in the chair, and it is surprising with what courage
 and vigour of wrist he applies the forceps. Perhaps he would not be
 quite so active or eager if it were his tooth; but, in fine, it is your
 duty to have it out. So the doctor, having read the epistle out to Myra
 and Mrs. Portman, with many damnatory comments upon the young scapegrace
-who was goin deeper and deeper into perdition, left those ladies to
+who was going deeper and deeper into perdition, left those ladies to
 spread the news through the Clavering society, which they did with their
 accustomed accuracy and despatch, and strode over to Fairoaks to break
 the intelligence to the widow.
@@ -9549,7 +9550,7 @@ walk barefoot through the snow," Laura said.
 course, Laura withdrew her previous observation, and the two women
 rushed into each other's embraces with that warmth which belonged to
 both their natures, and which characterises not a few of their sex.
-Whence came all Whence came all the indignation of Miss Laura about
+Whence came all the indignation of Miss Laura about
 Arthur's passion? Perhaps she did not know, that, if men throw
 themselves away upon women, women throw themselves away upon men,
 too; and that there is no more accounting for love, than for any other
@@ -9739,7 +9740,7 @@ Sundays, but it was only for form's sake. He was gardener and out-door
 man, vice Upton, resigned. There was but little fire in Fairoaks
 kitchen, and John and the maids drank their evening beer there by the
 light, of a single candle. All this was Mr. Pen's doing, and the state
-of things did not increas his cheerfulness.
+of things did not increase his cheerfulness.
 
 For some time Pen said no power on earth could induce him to go back to
 Oxbridge again, after his failure there; but one day Laura said to him,
@@ -10094,7 +10095,7 @@ through the otherwise silent street--he was as welcome as sunshine to
 the place, and a comfort to every inhabitant in it.
 
 On the first market-day he knew every pretty girl in the market: he
-joked with all the women: had a word with the farmers about their stock,
+joked with all the women; had a word with the farmers about their stock,
 and dined at the Agricultural Ordinary at the Clavering Arms, where he
 set them all dying with laughing by his fun and jokes. "Tu be sure he be
 a vine veller, tu be sure that he be," was the universal opinion of the
@@ -10224,7 +10225,7 @@ not understand his English or his Gascon French), because there was no
 carriage in waiting to drive him to the house, a mile off, and because
 he could not walk entire leagues in his fatigued state and varnished
 boots. This was Monsieur Alcide Mirobolant, formerly Chef of his
-Highness the Duc de Borodino, of H. Eminence Cardinal Beccafico, and
+Highness the Duc de Borodino, of his Eminence Cardinal Beccafico, and
 at present Chef of the bouche of Sir Clavering, Baronet:--Monsieur
 Mirobolant's library, pictures, and piano had arrived previously in
 charge of the intelligent young Englishman, his aide-de-camp. He was,
@@ -10252,7 +10253,7 @@ his particular use.
 He was walking upon the terrace finally upon the eventful day when,
 amidst an immense jangling of bells from Clavering Church, where the
 flag was flying, an open carriage and one of those travelling chariots
-or family arks, which only English philoprogenitiveness could invent
+or family arks, which only English philoprogenitiveness could invent,
 drove rapidly with foaming horses through the Park gates, and up to the
 steps of the Hall. The two battans of the sculptured door flew open. The
 superior officers in black, the large and melancholy gentlemen, now in
@@ -10670,7 +10671,7 @@ As novelists are supposed to know everything, even the secrets of female
 hearts, which the owners themselves do not perhaps know, we may state
 that at eleven years of age Mademoiselle Betsi, as Miss Amory was then
 called, had felt tender emotions towards a young Savoyard organ-grinder
-at Paris, whom she Persisted in believing to be a prince carried off
+at Paris, whom she persisted in believing to be a prince carried off
 from his parents; that at twelve an old and hideous drawing-master (but,
 ah, what age or personal defects are proof against woman's love?) had
 agitated her young heart; and that, at thirteen, being at Madame de
@@ -10872,7 +10873,7 @@ blunders throughout a long conversation, without the least propensity
 to grin. The rescued artist vowed that Madame Fribsby was his guardian
 angel, and that he had not as yet met with such suavity and politeness
 among les Anglaises. He was as courteous and complimentary to her as
-if it was the fairest and noblest of ladies whom he was addressing for
+if it was the fairest and noblest of ladies whom he was addressing: for
 Alcide Mirobolant paid homage after his fashion to all womankind, and
 never dreamed of a distinction of ranks in the realms of beauty, as his
 phrase was.
@@ -10928,7 +10929,7 @@ the snow. At her accustomed hour, and instead of the rude gigot a l'eau,
 which was ordinarily served at her too simple table, I sent her up a
 little potage a la Reine--a la Reine Blanche I called it,--as white as
 her own tint--and confectioned with the most fragrant cream and almonds.
-I then offered up at her shrine a filet de merlan a l'gnes, and a
+I then offered up at her shrine a filet de merlan à l'Agnes, and a
 delicate plat which I designated as Eperlan a la Sainte-Therese, and
 of which my charming Miss partook with pleasure. I followed this by two
 little entrees of sweetbread and chicken; and the only brown thing which
@@ -11248,25 +11249,25 @@ alone, alone in the world.
 
 But these griefs, real and heart-rending though they might be to a young
 lady of exquisite sensibility, did not convince Laura of the propriety
-of Blanche's conduct in many small incidents of Little Frank, for
-instance, life might be very provoking, and might have deprived Blanche
-of her mamma's affection, but this was no reason why Blanche should box
-the child's ears because he upset a glass of water over her drawing, and
-why she should call him many opprobrious names in the English and French
-language; and the preference accorded to little Frank was certainly no
-reason why Blanche should give herself imperial airs of command towards
-the boy's governess, and send that young lady upon messages through
-the house to bring her book or to fetch her pocket-handkerchief. When a
-domestic performed an errand for honest Laura, she was always thankful
-and pleased; whereas she could not but perceive that the little Muse had
-not the slightest scruple in giving her commands to all the world round
+of Blanche's conduct in many small incidents of life. Little Frank, for
+instance, might have deprived Blanche of her mamma's affection, but
+this was no reason why Blanche should box the child's ears because he
+upset a glass of water over her drawing, and why she should call him
+many opprobrious names in the English and French language; and the
+preference accorded to little Frank was certainly no reason why Blanche
+should give herself imperial airs of command towards the boy's
+governess, and send that young lady upon messages through the house to
+bring her book or to fetch her pocket-handkerchief. When a domestic
+performed an errand for honest Laura, she was always thankful and
+pleased; whereas she could not but perceive that the little Muse had not
+the slightest scruple in giving her commands to all the world round
 about her, and in disturbing anybody's ease or comfort, in order to
 administer to her own. It was Laura's first experience in friendship;
 and it pained the kind creature's heart to be obliged to give up as
-delusions, one by one, those charms and brilliant qualities in which
-her fancy had dressed her new friend, and to find that the fascinating
-little fairy was but a mortal, and not a very amiable mortal after
-all. What generous person is there that has not been so deceived in his
+delusions, one by one, those charms and brilliant qualities in which her
+fancy had dressed her new friend, and to find that the fascinating
+little fairy was but a mortal, and not a very amiable mortal after all.
+What generous person is there that has not been so deceived in his
 time?--what person, perhaps, that has not so disappointed others in his
 turn?
 
@@ -11470,7 +11471,7 @@ When the Claverings first came down to the Park, there were very few
 audiences before whom Miss Blanche could perform: hence Pen had all the
 benefits of her glances and confidences, and the drawing-room window or
 the garden walk all to himself. In the town of Clavering, it has been
-said, there were actually young men: in the near surrounding country,
+said, there were actually no young men: in the near surrounding country,
 only a curate or two or a rustic young squire, with large feet and
 ill-made clothes. To the dragoons quartered at Chatteris the Baronet
 made no overtures: it was unluckily his own regiment: he had left it
@@ -11520,7 +11521,7 @@ has been made, in a former page, of a certain hollow tree, at which
 Pen used to take his station when engaged in his passion for Miss
 Fotheringay, and the cavity of which he afterwards used for other
 purposes than to insert his baits and fishing-cans in. The truth is,
-be converted this tree into a post-office. Under a piece of moss and a
+he converted this tree into a post-office. Under a piece of moss and a
 stone, he used to put little poems, or letters equally poetical, which
 were addressed to a certain Undine, or Naiad who frequented the stream,
 and which, once or twice, were replaced by a receipt in the shape of a
@@ -11897,7 +11898,7 @@ stronger-minded girl; and indeed, whenever there was a sacrifice to be
 made on her part, this kind lady was only too eager to make it. But she
 took her own way, and did not loose sight of the end she had in view,
 in imparting these new plans to Pen. One day she told him of these
-projects, and it who that had formed them; how it was Laura who insisted
+projects, and it who it was that had formed them; how it was Laura who insisted
 upon his going to London and studying; how it was Laura who would
 not hear of the--the money arrangements when he came back from
 Oxbridge--being settled just then: how it was Laura whom he had to
@@ -12023,7 +12024,7 @@ Not yet. But the band began presently performing 'See the Conquering
 Hero comes,' and a host of fashionables--Dowager Countess of
 Rockminster, Mr. Pynsent and Miss Bell, Sir Francis Clavering, Bart., of
 Clavering Park, Lady Clavering and Miss Amory, Sir Horace Fogey, Bart.,
-Lady Fogey, Colonel and Mrs. Higgs Wagg, Esq. (as the county paper
+Lady Fogey, Colonel and Mrs. Higgs--Wagg, Esq. (as the county paper
 afterwards described them), entered the room.
 
 Pen rushed by Blanche, ran up to Laura, and seized her hand. "God bless
@@ -12157,7 +12158,7 @@ to you."
 "Women forget very readily," Pendennis said.
 
 "But they always come back, and are very repentant and sorry for what
-they've done," Blanche said. "See, here comes the Foker, and dear Laura
+they've done," Blanche said. "See, here comes the Poker, and dear Laura
 leaning on him. How pretty she looks!"
 
 Laura came up, and put out her hand to Pen, to whom Pynsent made a
@@ -12818,7 +12819,7 @@ unbecoming. She had a large straw hat, with a streamer of broad ribbon,
 which was useless probably, but the hat sufficiently protected the
 owner's pretty face from the sun. Over her accustomed gown she wore a
 blouse or pinafore, which, being fastened round her little waist by a
-smart belt, looked extremely well, and her bands were guaranteed from
+smart belt, looked extremely well, and her hands were guaranteed from
 the thorns of her favourite rose-bushes by a pair of gauntlets, which
 gave this young lady a military and resolute air.
 
@@ -13020,7 +13021,7 @@ and because she deceived you. Pardon me, Pen,"--and she held the kind
 hand out to Pen once more.
 
 "We were both jealous," said Pen. "Dear Laura, let us both forgive"--and
-he seized her band and would have drawn her towards him. He thought that
+he seized her hand and would have drawn her towards him. He thought that
 she was relenting, and already assumed the airs of a victor.
 
 But she shrank back, and her tears passed away; and she fixed on him
@@ -13581,7 +13582,7 @@ antiquity, and maintain a great number of the customs and institutions
 of our ancestors, with which those persons who do not particularly
 regard their forefathers, or perhaps are not very well acquainted with
 them; have long since done away. A well-ordained workhouse or prison
-si much better provided with the appliances of health, comfort, and
+is much better provided with the appliances of health, comfort, and
 cleanliness, than a respectable Foundation School a venerable College,
 or a learned Inn. In the latter place of residence men are contented to
 sleep in dingy closets, and to pay for the sitting-room and the cupboard
@@ -13760,7 +13761,7 @@ about, on his first introduction, not a little amused with the scene
 which he witnessed. Among his comrades of the student class there
 were gentlemen of all ages, from sixty to seventeen; stout grey-headed
 attorneys who were proceeding to take the superior dignity,--dandies
-and men--about town who wished for some reason to be barristers of seven
+and men about town who wished for some reason to be barristers of seven
 years' standing,--swarthy, black-eyed natives of the Colonies, who came
 to be called here before they practised in their own islands,--and many
 gentlemen of the Irish nation, who make a sojourn in Middle Temple
@@ -13826,7 +13827,7 @@ know. That's old Grump, the senior of the bar; they say he's dined here
 forty years. They often send 'em down their fish from the benchers to
 the senior table. Do you see those four fellows seated opposite us?
 Those are regular swells--tip-top fellows, I can tell you--Mr. Trail,
-the Bishop of Ealing's son, Honourable Fred. Ringwood, Lord Cinqbar's
+the Bishop of Ealing's son, Honourable Fred Ringwood, Lord Cinqbar's
 brother, you know. He'll have a good place, I bet any money; and Bob
 Suckling, who's always with him--a high fellow too. Ha! ha!" Here Lowton
 burst into a laugh.
@@ -14194,7 +14195,7 @@ of Costigan. He now began to play an air, which Pen instantly remembered
 as one which used to be sung by the chorus of villagers in 'The
 Stranger,' just before Mrs. Haller came in. It shook Pen as he heard
 it. He remembered how his heart used to beat as that air was played,
-and before the divine Emily made her entry. Nobody, save Arthur, too any
+and before the divine Emily made her entry. Nobody, save Arthur, took any
 notice of old Bows's playing: it was scarcely heard amidst the clatter
 of knives and forks, the calls for poached eggs and kidneys, and the
 tramp of guests and waiters.
@@ -15323,7 +15324,7 @@ the very ardour and enthusiasm of temperament which makes the author
 delightful often leads the man astray."
 
 "A fiddlestick about men of genius!" Warrington cried out, who was
-a very severe moralist upon some points, though possibly a very had
+a very severe moralist upon some points, though possibly a very bad
 practitioner. "I deny that there are so many geniuses as people who
 whimper about the fate of men of letters assert there are. There are
 thousands of clever fellows in the world who could, if they would, turn
@@ -15378,7 +15379,7 @@ a better man."
 sympathy, and the pity that is due to his weakness: though I fear that
 sort of kindness would be resented as contempt by a more high-minded
 man. You see he takes his consolation along with his misfortune, and
-one generates the other or balances ii, as the way of the world. He is a
+one generates the other or balances it, as the way of the world. He is a
 prisoner, but he is not unhappy."
 
 "His genius sings within his prison bars," Pen said.
@@ -15845,7 +15846,7 @@ publisher of the Row.
 a little more." He and Pen had had some bouts at the Oxbridge Union
 debates, in which Pen had had very much the better of Percy: who
 presently appeared, with his hat under his arm, and a look of
-indescribable good-humour and fatuity in his round dimpled face: upon
+indescribable good-humour and fatuity in his round dimpled face, upon
 which Nature had burst out with a chin-tuft, but, exhausted with the
 effort, had left the rest of the countenance bare of hair.
 
@@ -16054,7 +16055,7 @@ here, Pendennis: your uncle and I have had many a one. He sends it about
 to people where he is in the habit of dining. I remember at poor Rawdon
 Crawley's, Sir Pitt Crawley's brother--he was Governor of Coventry
 Island--Steyne's chef always came in the morning, and the butler arrived
-wit the champagne from Gaunt House, in the ice-pails ready."
+with the champagne from Gaunt House, in the ice-pails ready."
 
 "How good this is!" said Popjoy, good-naturedly. "You must have a cordon
 bleu in your kitchen."
@@ -16266,7 +16267,7 @@ out astonishing paragraphs and intelligence regarding the upper classes
 of society. It was a grand, nay, a touching sight, for a philosopher, to
 see Jack Finucane, Esquire, with a plate of meat from the cookshop and
 glass of porter from the public-house, for his meal, recounting the
-feasts of the great as if h had been present at them; and in tattered
+feasts of the great as if he had been present at them; and in tattered
 trousers and dingy shirt-sleeves, cheerfully describing and arranging
 the most brilliant fetes of the world of fashion. The incongruity of
 Finucane's avocation, and his manners and appearance amused his new
@@ -16383,7 +16384,7 @@ undertakes a critical journal, to benefit his rival?" Shandon inquired.
 "To benefit himself certainly, but to tell the truth too," Pen said,
 "ruat coelum, to tell the truth."
 
-"And my prospectus," said Shandon, with a laugh and a sner; "do you
+"And my prospectus," said Shandon, with a laugh and a sneer; "do you
 consider that was a work of mathematical accuracy of statement?"
 
 "Pardon me, that is not the question," Pen said "and I don't think you
@@ -16512,7 +16513,7 @@ little suitor trembling before him. The actors at the theatres
 complained of him wofully, too, and very likely he was too hard upon
 them. But there was not much harm done after all. It is different now,
 as we know; but there were so few great historians, or great poets, or
-great actors, in Pen's time, that scarce any at all came up for judgment
+great actors, in Pen's time, that scarce any at all came up for judgment before
 his critical desk. Those who got a little whipping, got what in the main
 was good for them; not that the judge was any better or wiser than the
 persons whom he sentenced, or indeed ever fancied himself so. Pen had a
@@ -17137,7 +17138,7 @@ who were to supply the new establishment; and at the same time the
 Baronet's factotum and confidential friend took the opportunity of
 furnishing his own chambers, and stocking his snug little cellar: his
 friends complimented him upon the neatness of the former; and the
-select guests who came in to share Strong's cutlet new found a bottle
+select guests who came in to share Strong's cutlet now found a bottle
 of excellent claret to accompany the meal. The Chevalier was now, as he
 said, "in clover:" he had a very comfortable set of rooms in Shepherd's
 Inn. He was waited on by a former Spanish Legionary and comrade of his
@@ -17467,7 +17468,7 @@ hand most cordially, and talked about dear Fairoaks, and asked for
 dear Laura and his mother, and said she was longing to go back to the
 country, and in fact was entirely simple, affectionate, and artless.
 
-Harry Foker thought he had never seen anybody so amiable and delightful
+Harry Foker thought he had never seen anybody so amiable and delightful.
 Not accustomed much to the society of ladies, and ordinarily being dumb
 to their presence, he found that he could speak before Miss Amory,
 and became uncommonly lively and talkative, even before the dinner was
@@ -17632,7 +17633,7 @@ a grand sight.
 X advanced to the individual and said, "Now, sir, will you have the
 kindness to move hon?"
 
-The individual, who was in perfect good-humour, did not appear to bear
+The individual, who was in perfect good-humour, did not appear to hear
 one word which Policeman X uttered, but nodded and waggled his grinning
 head at Strong, until his hat almost fell from his head over the area
 railings.
@@ -18433,7 +18434,7 @@ precious benefit of their experience and example; and there have been
 very respectable men too who have not objected so much to the kind of
 entertainment as to the publicity of it. I am sure, for instance, that
 our friend Major Pendennis would have made no sort of objection to join
-the a party of pleasure, provided that it were en petit comite, and that
+a party of pleasure, provided that it were en petit comite, and that
 such men as my Lord Steyne and my Lord Colchicum were of the society.
 "Give the young men their pleasures," this worthy guardian said to Pen
 more than once. "I'm not one of your strait-laced moralists, but an old
@@ -18977,7 +18978,7 @@ value for him to hurt a hair of his head."
 and was flung on to the coals. But the fire having done its duty of
 boiling the young man's breakfast-kettle, had given up work for the
 day, and had gone out, as Pen knew very well; Warrington with a scornful
-mile, once more took up the manuscript with the tongs from out of the
+smile, once more took up the manuscript with the tongs from out of the
 harmless cinders.
 
 "Oh, Pen, what a humbug you are!" Warrington said; "and what is worst of
@@ -19327,7 +19328,7 @@ Podmore (the pleasing tenor singer, T.R.D.L., and at the Back Kitchen
 Concert Rooms) married, and went to live at Lambeth, he ceded his
 chambers to Mr. Bows and Captain Costigan, who occupy them in common
 now, and you may often hear the tones of Mr. Bows's piano of fine days
-when the windows are open, acid when he is practising for amusement, or
+when the windows are open, and when he is practising for amusement, or
 for the instruction of a theatrical pupil, of whom he has one or two.
 Fanny Bolton is one, the porteress's daughter, who has heard tell of her
 mother's theatrical glories, which she longs to emulate. She has a good
@@ -19819,7 +19820,7 @@ she has warned you repeatedly against them'( which she actually had
 done, and often told me never to play with them), 'and now, Colonel,
 I have left her in hysterics almost, lest there should be any quarrel
 between you, and that confounded Marky should put a bullet through your
-head. Its my belief,' says my friend, 'that that woman is distractedly
+head. It's my belief,' says my friend, 'that that woman is distractedly
 in love with you.'
 
 "'Do you think so?' says I; upon which my friend told me how she had
@@ -20007,7 +20008,7 @@ to be a gentleman almost now, but--but I was one, once, and my father
 was one, and I'll not have this sort of talk from you, Sir F. Clavering,
 that's flat. I want to go abroad again. Why don't you come down with the
 money, and let me go? Why the devil are you to be rolling in riches, and
-me to have none? Why should have a house and a table covered with
+me to have none? Why should you have a house and a table covered with
 plate, and me be in a garret here in this beggarly Shepherd's Inn? We're
 partners, ain't we? I'd as good a right to be rich as you have, haven't
 I? Tell the story to Strong here, if you like; and ask him to be umpire
@@ -20186,11 +20187,11 @@ was right, sir, that was right:" with which Mentor quitted Telemachus,
 thinking that the young men were not so very bad, and that he should
 make something of that fellow yet.
 
-As Blaster Clavering grew into years and stature, he became too strong
+As Master Clavering grew into years and stature, he became too strong
 for the authority of his fond parents and governess; and rather governed
 them than permitted himself to be led by their orders. With his papa
 he was silent and sulky, seldom making his appearance, however, in the
-neighbourhood of that gentleman; with his mamma be roared and fought
+neighbourhood of that gentleman; with his mamma he roared and fought
 when any contest between them arose as to the gratification of his
 appetite, or other wish of his heart; and in his disputes with his
 governess over his book, he kicked that quiet creature's shins so
@@ -20837,7 +20838,7 @@ speak to her, what could he say that was worthy of her? What pearl of
 conversation could he bring that was fit for the acceptance of such a
 Queen of love and wit as Blanche? It was she who made the talk when she
 was in the company of this love-stricken partner. It was she who asked
-him bow that dear little pony was, and looked at him and thanked him
+him how that dear little pony was, and looked at him and thanked him
 with such a tender kindness and regret, and refused the dear little pony
 with such a delicate sigh when he offered it. "I have nobody to ride
 with in London," she said. "Mamma is timid, and her figure is not pretty
@@ -21576,7 +21577,7 @@ riddles, never did a kind smile come to visit Foker's lips. In fact, he
 never heard Mr. Momus at all.
 
 Pen and Miss Bolton were hard by listening to the same concert, and the
-latter remarked, and Pen laughed at Mr. Fokei's woebegone face.
+latter remarked, and Pen laughed at Mr. Foker's woebegone face.
 
 Fanny asked what it was that made that odd-looking little man so dismal?
 "I think he is crossed in love!" Pen, said. "Isn't that enough to make
@@ -21875,7 +21876,7 @@ when they awoke, would remember anything about the dispute.
 
 
 
-CHAPTYER XLVIII. A Visit of Politeness
+CHAPTER XLVIII. A Visit of Politeness
 
 
 Costigan never roused Pen from his slumbers; there was no hostile
@@ -22071,7 +22072,7 @@ and most genteel compliment of orders was received with boundless
 gratitude by both mother and daughter.
 
 Fanny clapped her hands with pleasure: her faced beamed with it. She
-looked and nodded, and laughed at har mamma, who nodded and laughed in
+looked and nodded, and laughed at her mamma, who nodded and laughed in
 her turn. Mrs. Bolton was not superannuated for pleasure yet, or by
 any means too old for admiration, she thought. And very likely
 Mr. Pendennis, in his conversation with her, had insinuated some
@@ -22195,7 +22196,7 @@ ill--a pretty dancer, and a fine stage figure of a woman--and he was a
 great sugar-baker in the city, with a country ouse at Omerton; and he
 used to drive her in the tilbry down Goswell Street Road; and one day
 they drove and was married at St. Bartholomew's Church, Smithfield,
-where they ad their bands read quite private; and she now keeps
+where they had their bands read quite private; and she now keeps
 her carriage, and I sor her name in the paper as patroness of the
 Manshing-House Ball for the Washywomen's Asylum. And look at Lady
 Mirabel--capting Costigan's daughter--she was profeshnl, as all very
@@ -22277,7 +22278,7 @@ was sulky. If Bows had anything on his mind, he did not care to deliver
 himself of his thoughts in the presence of Captain Costigan, who
 remained in the apartment during the whole of Pen's visit; having
 quitted his bedchamber, indeed, but a very few minutes before the
-arrival of that gentleman. We have witnessed the deshahille of Major
+arrival of that gentleman. We have witnessed the deshabille of Major
 Pendennis: will any man wish to be valet-de-chambre to our other hero,
 Costigan? It would seem that the Captain, before issuing from his
 bedroom, scented himself with otto-of-whisky. A rich odour of that
@@ -22618,7 +22619,7 @@ are in my chambers: here's the court and the door--come in and see." And
 Bows, taking off his hat and bowing first, followed the young man.
 
 They were not in Pen's chambers, as we know. But when the gardens
-were closed, the two women, who had r had but a melancholy evening's
+were closed, the two women, who had had but a melancholy evening's
 amusement, walked away sadly with the children, and they entered into
 Lamb Court, and stood under the lamp-post which cheerfully ornaments the
 centre of that quadrangle, and looked up to the third floor of the house
@@ -22722,7 +22723,7 @@ wear scent in your handkerchief, and a ring on your finger. You go to
 dine with great people. Who ever gives a crust to old Bows? And yet I
 might have been as good a man as the best of you. I might have been
 a man of genius, if I had had the chance; ay, and have lived with the
-master-spirits of the land. But everything hads ailed with me. I'd
+master-spirits of the land. But everything had failed with me. I'd
 ambition once, and wrote plays, poems, music--nobody would give me a
 hearing. I never loved a woman, but she laughed at me; and here I am in
 my old age alone--alone! Don't take this girl from me, Mr. Pendennis, I
@@ -22816,7 +22817,7 @@ days after the rencontre at Vauxhall. Faithful to his vow, he had not
 been to see little Fanny. He was trying to drive her from his mind by
 occupation, or other mental excitement. He laboured, though not to much
 profit, incessantly in his rooms; and, in his capacity of critic for
-the Pall Mall Gazette, made woful and savage onslaught on a poem and a
+the Pall Mall Gazette, made woeful and savage onslaught on a poem and a
 romance which came before him for judgment. These authors slain, he
 went to dine alone at the lonely club of the Polyanthus, where the vast
 solitudes frightened him, and made him only the more moody. He had
@@ -23192,7 +23193,7 @@ woman soundly for her intemperance, and pointed out to her the fatal
 consequences which must ensue if she persisted in her imprudent courses.
 
 Pen, who was by this time in a very fevered state, yet was greatly
-pleased to receive Costigan's visit. He heard the ell-known voice in his
+pleased to receive Costigan's visit. He heard the well-known voice in his
 sitting-room, as he lay in the bedroom within, and called the Captain
 eagerly to him, and thanked him for coming, and begged him to take a
 chair and talk to him. The Captain felt the young man's pulse with
@@ -26021,7 +26022,7 @@ Laura--I hope I may call you so sometimes--my dear Pen and I have been
 such friends that I have long wanted to tell you my story such as it
 is, and would have told it to you earlier but that it is a sad one and
 contains another's secret. However, it may do good for Arthur to know
-it--it is that every one here should. It will divert you from thinking
+it--it is right that every one here should. It will divert you from thinking
 about a subject, which, out of a fatal misconception, has caused a great
 deal of pain to all of you. May I please tell you, Mrs. Pendennis?"
 
@@ -26303,7 +26304,7 @@ easy kind of sympathy; and poor Fanny felt only too clearly that Pen's
 letter was one of farewell.
 
 "Sending hundred-pound notes to porters' daughters is all dev'lish
-well," old Major Pendennis said to his nephew (whom, as thee proprietor
+well," old Major Pendennis said to his nephew (whom, as the proprietor
 of Fairoaks and the head of the family, he now treated with marked
 deference and civility), "and as there was a little ready money at the
 bank, and your poor mother wished it, there's perhaps no harm done. But,
@@ -27076,7 +27077,7 @@ her cowardly husband's extravagance.
 
 It has been described in former pages how the elder Pendennis had become
 the adviser of the Clavering family, and, in his quality of intimate
-friend of the house, had gone over every room of ii, and even seen that
+friend of the house, had gone over every room of it, and even seen that
 ugly closet which we all of us have, and in which, according to the
 proverb, the family skeleton is locked up. About the Baronet's pecuniary
 matters, if the Major did not know, it was because Clavering himself did
@@ -27773,7 +27774,7 @@ replied Morgan. "He wouldn't quite do for this kind of thing, Lightfoot,
 for he ain't seen the world yet."
 
 When the pint of sherry for which Mr. Lightfoot called, upon Mr.
-Morgan's announcement that he eclined to drink spirits, had been
+Morgan's announcement that he declined to drink spirits, had been
 discussed by the two gentlemen, who held the wine up to the light,
 and smacked their lips, and winked their eyes at it, and rallied the
 landlord as to the vintage, in the most approved manner of connoisseurs,
@@ -27991,7 +27992,7 @@ young men hushed and attentive when you begin to speak; the servants
 awestricken; the tenants cap in hand, and ready to act in the place
 of your worship's horses when your honour takes a drive--it has often
 struck you, O thoughtful Dives! that this respect, and these glories,
-are for the main part transferred, with your fee-simple, to your
+are for the main part transferred, with your fee simple, to your
 successor--that the servants will bow, and the tenants shout, for your
 son as for you; that the butler will fetch him the wine (improved by a
 little keeping) that's now in your cellar; and that, when your night is
@@ -28464,25 +28465,27 @@ to-morrow."
 
 
 
-CHAPTER LXIII. Which accounts perhaps for Chapter LXI. The information
-regarding the affairs of the Clavering family, which Major Pendennis
-had acquired through Strong, and by his own personal interference as the
-friend of the house, was such as almost made the old gentleman pause in
-any plans which he might have once entertained for his nephew's benefit.
-To bestow upon Arthur a wife with two such fathers-in-law, as the two
-worthies whom the guileless and unfortunate Lady Clavering had drawn in
-her marriage ventures, was to benefit no man. And though the one, in a
-manner, neutralised the other, and the appearance of Amory or Altamont
-in public would be the signal for his instantaneous withdrawal and
-condign punishment,--for the fugitive convict had cut down the officer
-in charge of him,--and a rope would be inevitably his end; if he came
-again under British authorities; yet, no guardian would like to secure
-for his ward a wife, whose parent was to be got rid of in such a way;
-and the old gentleman's notion always had been that Altamont, with the
-gallows before his eyes, would assuredly avoid recognition; while, at
-the same time, by holding the threat of his discovery over Clavering,
-the latter, who would lose everything by Amory's appearance, would be a
-slave in the hands of the person who knew so fatal a secret.
+CHAPTER LXIII. Which accounts perhaps for Chapter LXI.
+
+The information regarding the affairs of the Clavering family, which
+Major Pendennis had acquired through Strong, and by his own personal
+interference as the friend of the house, was such as almost made the old
+gentleman pause in any plans which he might have once entertained for
+his nephew's benefit. To bestow upon Arthur a wife with two such
+fathers-in-law, as the two worthies whom the guileless and unfortunate
+Lady Clavering had drawn in her marriage ventures, was to benefit no
+man. And though the one, in a manner, neutralised the other, and the
+appearance of Amory or Altamont in public would be the signal for his
+instantaneous withdrawal and condign punishment,--for the fugitive
+convict had cut down the officer in charge of him,--and a rope would be
+inevitably his end; if he came again under British authorities; yet, no
+guardian would like to secure for his ward a wife, whose parent was to
+be got rid of in such a way; and the old gentleman's notion always had
+been that Altamont, with the gallows before his eyes, would assuredly
+avoid recognition; while, at the same time, by holding the threat of his
+discovery over Clavering, the latter, who would lose everything by
+Amory's appearance, would be a slave in the hands of the person who knew
+so fatal a secret.
 
 But if the Begum paid Clavering's debts many times more, her wealth
 would be expended altogether upon this irreclaimable reprobate; and her
@@ -28715,7 +28718,7 @@ out that for me, Lightfoot, and I'll make it worth your while, my boy."
 
           *     *     *     *     *     *
 
-Major Pendennis had often said with a laugh, that his vale Morgan was
+Major Pendennis had often said with a laugh, that his valet Morgan was
 a much richer man than himself: and, indeed, by long course of careful
 speculation, this wary and silent attendant had been amassing a
 considerable sum of money, during the year which he had passed in the
@@ -29373,7 +29376,7 @@ fall rather suddenly and heavily upon the sole remaining partner of the
 little firm of Shepherd's Inn. When Strong, at parting with Altamont,
 refused the loan proffered by the latter in the fulness of his purse and
 the generosity of his heart, he made such a sacrifice to conscience and
-delicacy as caused him many an after twinge and pang; he and felt--it
+delicacy as caused him many an after twinge and pang; and he felt--it
 was not very many hours in his life he had experienced the feeling--that
 in this juncture of his affairs he had been too delicate and too
 scrupulous. Why should a fellow in want refuse a kind offer kindly made?
@@ -29571,7 +29574,7 @@ or why should he give me that seat in Parlament?"
 
 "Clavering thinks he ain't fit for Parliament," the Major answered. "No
 more he is. What's to prevent him from putting you or anybody else into
-his place if he likes? Do you think that vernment or the Opposition
+his place if he likes? Do you think that Government or the Opposition
 would make any bones about accepting the seat if he offered it to
 them! Why should you be more squeamish than the first men, and the
 most honourable men, and men of the highest birth and position in the
@@ -30885,7 +30888,7 @@ betters, not even a pretty woman--what a difference there is between
 these men, who poison the very turnips and stubble-fields with their
 tobacco, and the gentlemen of our time!" thinks the Major; "the breed
 is gone--there's no use for 'em; they're replaced by a parcel of damned
-cotton--spinners and utilitarians, and young sprigs of parsons with
+cotton-spinners and utilitarians, and young sprigs of parsons with
 their hair combed down their barks. I'm getting old: they're getting
 past me: they laugh at us old boys," thought old Pendennis. And he was
 not far wrong; the times and manners which he admired were pretty nearly
@@ -31679,7 +31682,7 @@ Colonisation questions."
 
 "We reserve to ourselves the liberty of voting against Government,
 though we are generally friendly. We are, however, friends of the people
-avant tout. We give lectures at the Clavering Institute, and shake bands
+avant tout. We give lectures at the Clavering Institute, and shake hands
 with the intelligent mechanics. We think the franchise ought to be very
 considerably enlarged; at the same time we are free to accept office
 some day, when the House has listened to a few crack speeches from us,
@@ -32066,7 +32069,7 @@ His age--his kindness, disarmed Pen's anger somewhat, and made Arthur
 feel no little compunction for the deed which he was about to do. He
 knew that the announcement which he was about to make would destroy the
 darling hope of the old gentleman's life, and create in his breast a
-woful anger and commotion.
+woeful anger and commotion.
 
 "Hey--hey--I'm off, sir," nodded the Elder; "but I'd like to read
 a speech of yours in the Times before I go--'Mr. Pendennis said,
@@ -33308,7 +33311,7 @@ at my own time, when we are married. You will not betray me, will you?
 You, having a defenceless girl's secret, will not turn upon her and use
 it? S'il me plait de le cacher, mon secret; pourquoi le donnerai je? Je
 l'aime, mon pauvre pere, voyez-vous? I would rather live with that man
-than with you fades intriguers of the world. I must have emotions--it
+than with you fades intriguers of the world. I must have emotions--il
 m'en donne. Il m'ecrit. Il ecrit tres-bien, voyez-vous--comme un
 pirate--comme un Bohemien--comme un homme. But for this I would
 have said to my mother--Ma mere! quittons ce lache mari, cette lache
@@ -34666,7 +34669,7 @@ THE END
 
 
 
-End of the Project Gutenberg EBook of The History of Pendennis, by 
+End of the Project Gutenberg EBook of The History of Pendennis, by
 William Makepeace Thackeray
 
 *** END OF THIS PROJECT GUTENBERG EBOOK THE HISTORY OF PENDENNIS ***
